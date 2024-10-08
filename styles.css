@@ -11,7 +11,23 @@ body
 
 ul
 {
+    display:flex;
+    justify-content: end;
+    gap: 15px;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    
+}
+
+/* id-navn selector */
+#home
+{
+
+}
+
+/* Class-navn selector */
+.ListItemHome
+{
+    
 }
