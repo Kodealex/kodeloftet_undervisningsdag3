@@ -1,1 +1,17 @@
+/* External CSS */
 
+/* body er en CSS selector */
+body 
+{
+  /* {} Indikerer en CSS declaration */
+  /* property:value; som er en CSS Rule */
+  background-color: lightcoral;
+
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
